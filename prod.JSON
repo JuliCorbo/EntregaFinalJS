@@ -1,0 +1,54 @@
+[
+    {
+    "id": 1,
+    "title": "Maceta",
+    "precio": 350 ,
+    "descripcion": "Maceta con huecos lista apta para sol"
+
+},
+{
+    "id": 2,
+    "title": "Bebedero",
+    "precio": 950 ,
+    "descripcion": "Bebedero para aves"
+},
+{
+    "id": 3,
+    "title": "Ganchitos",
+    "precio": 150,
+    "descripcion": "Ganchitos para colgar macetas"
+
+},
+{
+    "id": 4,
+    "title": "Palita",
+    "precio": 850,
+    "descripcion": "Palita para jardineria resistente"
+},
+{
+    "id": 5,
+    "title": "Tierra",
+    "precio": 910 ,
+    "descripcion": "Tierra Fertilizada apta para plantas de exterior"
+},
+{
+    "id": 6,
+    "title": "Regadera de metal",
+    "precio": 1500 ,
+    "descripcion": "Regadera de metal resistente a las inclemencias del tiempo"
+
+},
+{
+    "id": 7,
+    "title": "Regadera de plastico",
+    "precio": 1350 ,
+    "descripcion": "Regadera de plastico economica"
+},
+{
+    "id": 8,
+    "title": "Regadera de zing",
+    "precio": 2000 ,
+    "descripcion": "Increible regadera de zing"
+}
+
+]

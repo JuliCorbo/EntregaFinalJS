@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+<link rel="stylesheet" href="style.css">
+    <title>ecommerce</title>
+</head>
+<body>
+<header>
+
+</header>
+
+<h2>Productos disponibles
+  <hr>
+  <ul id="lista">
+
+  </ul>
+</h2>
+<p>En esta seccion podes encontrar los productos disponibles a la venta en nuestra tienda online!</p>
+
+<div id="container" class="container row gap-3 justify-content-center"></div>
+<h2>Carrito</h2>
+<div id="carrito" class="carrito">
+  <h4>Cantidad de productos en el carrito: <span id="numeroCarrito">0</span></h4>
+
+</div>
+
+<div id="sumarTodo">
+  <button id="btnFinal" type="submit"> Terminar pedido </button>
+</div>
+
+<h2 id="resultadoFinal"></h2>
+ 
+<script src="prod.json"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="app.js"></script>
+</body>
+</html>
+
+
+
+
+
